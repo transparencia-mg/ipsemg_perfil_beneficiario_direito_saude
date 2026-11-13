@@ -191,8 +191,8 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: atualizacao_beneficiário_direito_saúde_outubro_2026
-    path: data/atualizacao_beneficiário_direito_saúde_outubro_2026.csv
+    name: atualizacao_beneficiário_direito_saúde_setembro_2026
+    path: data/atualizacao_beneficiário_direito_saúde_setembro_2026.csv
     profile: tabular-data-resource
     schema:
       fields:
@@ -253,8 +253,8 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: atualizacao_beneficiário_direito_saúde_setembro_2026
-    path: data/atualizacao_beneficiário_direito_saúde_setembro_2026.csv
+    name: atualizacao_beneficiario_direito_saude_outubro_2026
+    path: data/atualizacao_beneficiario_direito_saude_outubro_2026.csv
     profile: tabular-data-resource
     schema:
       fields:
